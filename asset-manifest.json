@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.edf94c50.css",
+    "main.js": "/static/js/main.f0f6deb6.js",
+    "static/media/image-gallery.png": "/static/media/image-gallery.026abf414f7c040d3293.png",
+    "static/media/ChrisEicher.jpg": "/static/media/ChrisEicher.0155717ba89e02cc2e64.jpg",
+    "static/media/yelp-camp.png": "/static/media/yelp-camp.4770c2e92e7c3f5d56c5.png",
+    "static/media/dad-jokes.png": "/static/media/dad-jokes.c98861e67cbe8408919e.png",
+    "index.html": "/index.html",
+    "main.edf94c50.css.map": "/static/css/main.edf94c50.css.map",
+    "main.f0f6deb6.js.map": "/static/js/main.f0f6deb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edf94c50.css",
+    "static/js/main.f0f6deb6.js"
+  ]
+}
