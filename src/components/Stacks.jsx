@@ -8,7 +8,7 @@ export default function Stacks({ className }) {
 				className={`text-white mb-10 text-center md:text-left font-semibold text-4xl ${className}`}
 				id="stacks"
 			>
-				My technologies
+				My Technologies
 			</h2>
 			<div className="flex flex-wrap justify-center md:justify-start 2xl:justify-between gap-16">
 				<React />
