@@ -11,12 +11,12 @@ export default function Projects({ className }) {
 				className={`text-white mb-10 text-center md:text-left font-semibold text-4xl ${className}`}
 				id="projects"
 			>
-				My projects
+				My Projects
 			</h2>
 			<div className="flex flex-wrap flex-none justify-center md:justify-between gap-16">
 				<Card
 					title="Random Dad Jokes"
-					body="A simple React app to retrieve and display dad jokes. Next iteration: adding  Firebase and user auth to sign in and favorite jokes."
+					body="A simple React app to retrieve, display, and save dad jokes locally. Next iteration: adding Firebase and user auth for cross-device favorites."
 					ctaObj={{
 						href: 'https://www.getyourdadjokes.com',
 						cta: 'See in action',

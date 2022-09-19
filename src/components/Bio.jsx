@@ -10,7 +10,7 @@ export default function Bio({ className }) {
 			</h2>
 			<p className={textClasses}>
 				I was born and raised in Saint George, Utah, but I've been a resident of
-				Moscow, Idaho since 2019. Outside of work, I love to spend time with my
+				Moscow, Idaho, since 2019. Outside of work, I love to spend time with my
 				wife and dog, read (and sometimes write) fantasy, play video games, and
 				learn more about software engineering.
 			</p>
